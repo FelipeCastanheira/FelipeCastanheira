@@ -1,16 +1,16 @@
-# Welcome!
+# Bem-vindo!
 
  
 
-## I'm Felipe Castanheira!
+## Eu sou Felipe Castanheira, desenvolvedor Front-End
 
  
 
-:computer: I'm Front-End Developer!
+:computer: JS, React.js, CSS responsivo, HTML semântico, GIT.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Sou de Santos, SP, Brasil.
 
-:books: I'm learning Front-End and Back-End.
+:books: Estudante Full Stack na Trybe
  
 
 ## About me
