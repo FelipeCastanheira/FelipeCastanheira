@@ -13,10 +13,10 @@
 :books: Estudante Full Stack na Trybe
  
 
-## About me
+## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FelipeCastanheira)](https://github.com/FelipeCastanheira)
 
-- Thanks for visiting.
+- Obrigado pela visita!
 
-- Enjoy it!! o/
+- Aproveite!! o/
