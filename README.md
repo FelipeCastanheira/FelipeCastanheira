@@ -20,3 +20,6 @@
 - Obrigado pela visita!
 
 - Aproveite!! o/
+
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecastanheira&show_icons=true&theme=radical)
