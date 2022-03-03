@@ -21,6 +21,9 @@
 ## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FelipeCastanheira)](https://github.com/FelipeCastanheira)
+<a href="https://www.linkedin.com/in/felipe-castanheira-75638aaa/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Castanheira's LinkedIn Profile" height="30" width="30">
+</a>
 
 - Obrigado pela visita!
 
