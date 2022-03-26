@@ -20,13 +20,13 @@
 
 ## Sobre mim
 
-<a href="https://www.linkedin.com/in/felipe-castanheira-75638aaa/">
+Tenho 29 anos, sou fascinado por resolver problemas que envolvam raciocínio lógio e tenho facilidade com comunicação.
+
+<a href="https://www.linkedin.com/in/felipe-castanheira/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Castanheira's LinkedIn Profile" height="30" width="30">
 </a>
 
 - Obrigado pela visita!
-
-- Aproveite!! o/
 
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecastanheira&show_icons=true&theme=radical)
