@@ -13,6 +13,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 :house_with_garden: Sou de Santos, SP, Brasil.
 
 :books: Estudante Full Stack na Trybe
