@@ -2,7 +2,7 @@
 
  
 
-## Eu sou Felipe Castanheira, desenvolvedor Front-End
+## Eu sou Felipe Castanheira, Desenvolvedor Front-End e Cientista de Dados Jr
 
  
 
@@ -15,6 +15,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJs-00000F?style=for-the-badge&logo=nodejs&logoColor=white)
 
 :house_with_garden: Sou de Santos, SP, Brasil.
 
