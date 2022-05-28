@@ -2,7 +2,7 @@
 
  
 
-## Eu sou Felipe Castanheira, Desenvolvedor Front-End e Cientista de Dados Jr
+## Eu sou Felipe Castanheira, Desenvolvedor Full Stack e Cientista de Dados Jr
 
  
 
