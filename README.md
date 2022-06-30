@@ -26,7 +26,7 @@
 
 ## Sobre mim
 
-Tenho 29 anos, sou fascinado por resolver problemas que envolvam raciocínio lógio e tenho facilidade com comunicação.
+Tenho 30 anos, sou fascinado por resolver problemas que envolvam raciocínio lógio e tenho facilidade com comunicação.
 
 <a href="https://www.linkedin.com/in/felipe-castanheira/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Castanheira's LinkedIn Profile" height="30" width="30">
