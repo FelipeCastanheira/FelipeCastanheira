@@ -21,7 +21,7 @@
 
 :house_with_garden: Sou de Santos, SP, Brasil.
 
-:books: Estudante Full Stack na Trybe
+:books: Trabalho como Dev e Cientista de Dados Jr. na Tropical Hub
  
 
 ## Sobre mim
