@@ -23,6 +23,9 @@
 :house_with_garden: Sou de Santos, SP, Brasil.
 
 :books: Trabalho como Dev e Cientista de Dados Jr. na Tropical Hub
+
+Nas horas vagas, dou aulas particulares de JavaScript e ReactJs, saiba mais em:
+https://www.felipecastanheira.com.br/aulas
  
 
 ## Sobre mim
