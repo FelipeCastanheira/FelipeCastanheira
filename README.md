@@ -2,8 +2,7 @@
 
  
 
-## Eu sou Felipe Castanheira, Desenvolvedor Full Stack e Cientista de Dados Jr
-
+## Eu sou Felipe Castanheira, Desenvolvedor HubSpot e Node JS
  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -22,7 +21,7 @@
 
 :house_with_garden: Sou de Santos, SP, Brasil.
 
-:books: Trabalho como Dev e Cientista de Dados Jr. na Tropical Hub
+:books: Trabalho como Desenvolvedor Pleno na Tropical Hub
 
 Nas horas vagas, dou aulas particulares de JavaScript e ReactJs, saiba mais em:
 https://www.felipecastanheira.com.br/aulas
